@@ -4,7 +4,7 @@
   "description": "Create a full-stack AI app powered by NexaAPI in one command",
   "main": "index.js",
   "bin": {
-    "create-nexa-app": "./bin/create-nexa-app.js"
+    "create-nexa-app": "bin/create-nexa-app.js"
   },
   "scripts": {
     "test": "node bin/create-nexa-app.js --help"
